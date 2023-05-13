@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "MainLayout.vue"
+status = 200
